@@ -14,19 +14,3 @@
     "allowOffline": true
   }
 ]
-[
-  {
-    "id": "d83747179093c72f",
-    "username": "Awara",
-    "password": "Awara123",
-    "expiresAt": "2028-12-12",
-    "allowOffline": true
-  },
-  {
-    "id": "d83747179093c72f",
-    "username": "Rahul",
-    "password": "Rahul123",
-    "expiresAt": "2028-12-12",
-    "allowOffline": true
-  }
-]
